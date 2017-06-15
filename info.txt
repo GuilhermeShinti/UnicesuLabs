@@ -1,6 +1,0 @@
-keystore/keystore.jks
-pass: guism1994
-
-key
-alias: unicesulabs
-pass: guism1994
