@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    style="@style/Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"
+    android:layout_width="50dp"
+    android:layout_height="wrap_content"
+    android:layout_alignParentEnd="true"
+    android:layout_alignParentRight="true"
+    android:gravity="left|center"
+    android:paddingBottom="5dp"
+    android:paddingStart="5dp"
+    android:singleLine="true"
+    android:text="Turno"
+    android:textAlignment="inherit"
+    android:textColor="@android:color/background_light"
+    android:textColorLink="@android:color/background_light"
+    android:textSize="15sp" />
